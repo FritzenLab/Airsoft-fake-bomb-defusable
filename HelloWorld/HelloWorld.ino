@@ -1,4 +1,7 @@
 /*
+ * -----------------------------------
+ * About liquidCrystal library: 
+ * 
   LiquidCrystal Library - Hello World
 
  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal
@@ -37,6 +40,8 @@
  This example code is in the public domain.
 
  http://www.arduino.cc/en/Tutorial/LiquidCrystalHelloWorld
+ 
+* -----------------------------------
 
 */
 
